@@ -23,6 +23,3 @@ This application displays **Todos**, **Comments**, and **Users** with images in 
 - Fetch API
 - JSONPlaceholder API
 
-
-## 📂 Project Structure
-
